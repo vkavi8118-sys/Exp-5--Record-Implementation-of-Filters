@@ -164,7 +164,7 @@ plt.show()
 
 
 #### ii) Using Laplacian Operator
-![Uploading Screenshot 2026-10-30 144137.png…]()
+<img width="771" height="311" alt="Screenshot 2026-10-30 144137" src="https://github.com/user-attachments/assets/343ecbde-d40b-4107-9c6e-20fbfc502558" />
 
 
 ## Result
